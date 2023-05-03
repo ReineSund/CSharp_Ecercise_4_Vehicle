@@ -1,0 +1,15 @@
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\CSharp_Exercise_4_Vehicle.csproj.AssemblyReference.cache
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\CSharp_Exercise_4_Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\CSharp_Exercise_4_Vehicle.AssemblyInfoInputs.cache
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\CSharp_Exercise_4_Vehicle.AssemblyInfo.cs
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\CSharp_Exercise_4_Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\bin\Debug\net6.0\CSharp_Exercise_4_Vehicle.exe
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\bin\Debug\net6.0\CSharp_Exercise_4_Vehicle.deps.json
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\bin\Debug\net6.0\CSharp_Exercise_4_Vehicle.runtimeconfig.json
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\bin\Debug\net6.0\CSharp_Exercise_4_Vehicle.dll
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\bin\Debug\net6.0\CSharp_Exercise_4_Vehicle.pdb
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\CSharp_Exercise_4_Vehicle.dll
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\refint\CSharp_Exercise_4_Vehicle.dll
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\CSharp_Exercise_4_Vehicle.pdb
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\CSharp_Exercise_4_Vehicle.genruntimeconfig.cache
+C:\Users\reine\source\repos\CSharp_Exercise_4_Vehicle\CSharp_Exercise_4_Vehicle\obj\Debug\net6.0\ref\CSharp_Exercise_4_Vehicle.dll
